@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to Developers Student Club IIIT Kota
 
 
-- 👯 We are open to collaborate on
-- 💬 Ask me about ...
+- 👯 We are open to collaborate 
+- 💬 Ask me about latest tech
 - 📫 How to reach me: dsciiitkota.ac.in
 
 
