@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to Developers Student Club IIIT Kota
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to Developers Student Club IIIT Kota
 
 <!--
 Here are some ideas to get you started:
