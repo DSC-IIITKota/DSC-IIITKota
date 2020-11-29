@@ -3,7 +3,7 @@
 
 - 👯 We are open to collaborate 
 - 💬 Ask me about latest tech
-- 📫 How to reach me: dsciiitkota.ac.in
+- 📫 How to reach me: https://dsc-iiit-kota.github.io/DSC-Website
 
 
 
