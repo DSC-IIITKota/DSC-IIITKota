@@ -2,8 +2,8 @@
 
 
 - 👯 We are open to collaborate 
-- 💬 Ask me about latest tech
-- 📫 How to reach me: https://dsc-iiit-kota.github.io/DSC-Website
+- 💬 Ask us about latest tech
+- 📫 How to reach us: https://dsc-iiit-kota.github.io/DSC-Website
 
 
 
