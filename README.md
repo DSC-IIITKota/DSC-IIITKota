@@ -13,7 +13,7 @@
 
 [Akshat Saxena](https://github.com/akshatsaxena17) | [Priyanshi Mehta](https://github.com/priyanshi259) | [coremember6_username](https://github.com/coremember6_username) | [coremember7_username](https://github.com/coremember3_username)
 --- | --- | --- | ---
-![Akshat Saxena](https://avatars.githubusercontent.com/akshatsaxena17?s=150&v=1) | ![Priyanshi Mehta](https://avatars.githubusercontent.com/priyanshi259?s=150&v=1) | ![coremember6_username](https://avatars.githubusercontent.com/coremember6_username?s=150&v=1) | ![coremember7_username](https://avatars.githubusercontent.com/coremember7_username?s=150&v=1)
+![Akshat Saxena](https://avatars.githubusercontent.com/akshatsaxena17?s%3D150%26v%3D1) | ![Priyanshi Mehta](https://avatars.githubusercontent.com/priyanshi259?s=150&v=1) | ![coremember6_username](https://avatars.githubusercontent.com/coremember6_username?s=150&v=1) | ![coremember7_username](https://avatars.githubusercontent.com/coremember7_username?s=150&v=1)
 
 ### Reach Out Us! :coffee:
 <p align="center">
